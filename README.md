@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @kpa1on
-- 👀 I’m interested in Java-Security
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me ...
-
-<!---
-kpa1on/kpa1on is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Hi, I’m @kpa1on，一个即将毕业的学生
+- 兴趣：Java安全&安全开发
+- 技能：漏洞挖掘&代码审计
+- 爱好：LOL&王者
+- 我的博客：https://kpa1on.github.io/
