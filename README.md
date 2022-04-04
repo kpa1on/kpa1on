@@ -1,3 +1,2 @@
 - Hi, I’m @kpa1on
-- 爱好：LOL&王者
 - 我的博客：https://kpa1on.github.io/
